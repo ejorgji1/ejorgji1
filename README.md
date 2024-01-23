@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Enea.
+
+I am a full stack engineer proficient in languages such as Python, JavaScript, HTML, CSS and frameworks including React, Redux, Flask and Express.Prior to my journey as a Full Stack Engineer, I worked in data analytics, beginning as an analyst and advancing into a managerial role. This experience equipped me with a deep understanding of leveraging data insights to drive business decisions, optimize processes, and achieve successful project outcomes. Integrating this expertise with my technical skills, I excel in creating user-friendly solutions that offer advanced features alongside simple, intuitive design, ensuring exceptional experiences for users.
 
 <!--
 **ejorgji1/ejorgji1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
